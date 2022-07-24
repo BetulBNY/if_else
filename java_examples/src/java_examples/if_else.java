@@ -3,7 +3,7 @@ package java_examples;
 public class if_else {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		
 		//EXAMPLE 1: Entered character is digit, special or alphabet?
 			
@@ -37,8 +37,6 @@ public class if_else {
 	    		System.out.print(str.charAt(i));
 	    }
 
-
-		
 	}
 
 }
